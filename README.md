@@ -14,5 +14,3 @@
 3. L298N Motor Driver
 4. Any RC Car of your choice 
 
-## Basic Working of the Code:
-1. 
