@@ -1,5 +1,6 @@
 # Pi-Car
 “Self-driving cars are the natural extension of active safety and obviously something we should do.” ~Elon Musk. In this world of Autonomous Cars, I have made a simple yet innovative Autonomous RC Car that uses very minimal and less costly Hardware and simple computer vision to Detect Green Lane Lines and drive bounded to them. Here's a Quick Look for my Car which I Coded, Assembled from scratch.
+
 ![IMG_20210610_185109_615](https://user-images.githubusercontent.com/87967508/126969893-41da3013-2219-4f25-8895-f65fc4590fb6.jpg)
 
 
